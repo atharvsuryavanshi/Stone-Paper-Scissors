@@ -1,0 +1,6 @@
+img {
+    user-select: none;
+    /* Prevents selection */
+    pointer-events: none;
+    /* Prevents dragging */
+}
